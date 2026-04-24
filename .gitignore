@@ -1,0 +1,4 @@
+.env
+venv/
+sales.db
+__pycache__/
